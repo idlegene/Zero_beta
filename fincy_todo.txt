@@ -1,0 +1,10 @@
+1)
+# write a jmeter script that accepts attribute SYMBOL and outputs csv of all the prices for one year period.
+test with SYMBOL INFY
+
+link : https://www.nseindia.com/products/content/equities/equities/eq_security.htm
+
+2)
+do same for index
+https://www.nseindia.com/products/content/equities/indices/historical_index_data.htm
+test symbol : NIFTY 50
